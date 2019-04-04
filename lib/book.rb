@@ -11,10 +11,7 @@ class Book
   end
 end 
 
-
-
-
-
+# other methods entereing getters and setters.
 
 # class Book 
   
